@@ -195,38 +195,5 @@ public class HelloController
 
 
 
-//
-//     err.setText("SEAT ALREADY CHOSEN");
-//             }
-//
-//             if(lists.get(rand).equals("box7") && boxx7.getText().isEmpty()){
-//             boxx7.setText(receivedStudentName);
-//             box7.setStyle("-fx-background-color: #" +colorset.toString().substring(2));
-//             err.setText("Seat fixed");
-//             // lists.remove(rand);
-//             }
-//             else if(boxx7.getText() != ("")  && lists.get(rand).equals("box7")){
-//             err.setText("SEAT ALREADY CHOSEN");
-//             }
-//
-//
-//
-//             else if(lists.get(rand).equals("box8") && boxx8.getText().isEmpty()){
-//             boxx8.setText(receivedStudentName);
-//             box8.setStyle("-fx-background-color: #" +colorset.toString().substring(2));
-//             err.setText("Seat fixed");
-//
-//             }
-//             else if(boxx8.getText() != ("")  && lists.get(rand).equals("box8")){
-//             err.setText("SEAT ALREADY CHOSEN");
-//             }
-//
-//             if(lists.get(rand).equals("box9") && boxx9.getText().isEmpty()){
-//             boxx9.setText(receivedStudentName);
-//             box9.setStyle("-fx-background-color: #" +colorset.toString().substring(2));
-//             err.setText("Seat fixed");
-//             // lists.remove(rand);
-//             }
-//             else if(boxx9.getText() != ("")  && lists.get(rand).equals("box9")){
-//             err.setText("SEAT ALREADY CHOSEN");
-//             }
+
+
